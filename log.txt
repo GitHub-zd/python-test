@@ -1,0 +1,1 @@
+DEBUG:root:this messages should go to the log file
